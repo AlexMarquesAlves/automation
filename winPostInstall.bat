@@ -34,7 +34,6 @@ choco install docker-desktop --version 4.29.0 -y
 choco install wsl2 --version 2.0.0.20210721 -y
 choco install calibre --version 7.9.0 -y
 choco install dbeaver --version 24.0.3 -y
-choco install cpu-z.install --version 2.9.0.20240123 -y
 choco install nvm --version 1.1.12 -y
 choco install steam --version 2.10.91.91221129 -y
 choco install k-litecodecpackmega --version 18.3.0 -y
